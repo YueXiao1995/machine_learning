@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15966ab5-6762-4426-89e5-ae154083154e" name="Default Changelist" comment="" />
+    <list default="true" id="6389536b-d411-47f9-9e67-6981c8baad74" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,40 +9,33 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/image_classification$MNIST_fashion.coverage" NAME="MNIST_fashion Coverage Results" MODIFIED="1571348107738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Introduction$beginner.coverage" NAME="beginner Coverage Results" MODIFIED="1571335907952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Introduction$MNIST_fashion.coverage" NAME="MNIST_fashion Coverage Results" MODIFIED="1571342624166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
+    <SUITE FILE_PATH="coverage/Tensorflow$movie_reviews.coverage" NAME="movie_reviews Coverage Results" MODIFIED="1571604725390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/text_classification" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNIST_handwritten_digits.py">
+        <entry file="file://$PROJECT_DIR$/image_classification/MNIST_handwritten_digits.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+            <state relative-caret-position="60">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image_classification/MNIST_fashion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MNIST_fashion.py">
+        <entry file="file://$PROJECT_DIR$/text_classification/IMBD_movie_reviews.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+            <state relative-caret-position="196">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -57,21 +50,18 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/beginner.py" />
-        <option value="$PROJECT_DIR$/MNIST_handwritten_digits.py" />
-        <option value="$PROJECT_DIR$/load_CSV_data.py" />
-        <option value="$PROJECT_DIR$/MNIST_fashion.py" />
-        <option value="$PROJECT_DIR$/MNIST_fashion.py" />
+        <option value="$PROJECT_DIR$/text_classification/movie_reviews.py" />
+        <option value="$PROJECT_DIR$/text_classification/IMBD_movie_reviews.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="710" />
+    <option name="x" value="716" />
     <option name="y" value="23" />
     <option name="width" value="724" />
     <option name="height" value="877" />
@@ -82,18 +72,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="image_classification" type="b2602c69:ProjectViewProjectNode" />
-              <item name="image_classification" type="462c0819:PsiDirectoryNode" />
+              <item name="Tensorflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensorflow" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -115,43 +105,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MNIST_fashion">
-    <configuration name="MNIST_fashion" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="image_classification" />
+  <component name="RunManager">
+    <configuration name="movie_reviews" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tensorflow" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text_classification" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNIST_fashion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="beginner" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="image_classification" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNIST_handwritten_digits.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_classification/IMBD_movie_reviews.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,8 +130,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.MNIST_fashion" />
-        <item itemvalue="Python.beginner" />
+        <item itemvalue="Python.movie_reviews" />
       </list>
     </recent_temporary>
   </component>
@@ -172,24 +139,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="15966ab5-6762-4426-89e5-ae154083154e" name="Default Changelist" comment="" />
-      <created>1571334579879</created>
+      <changelist id="6389536b-d411-47f9-9e67-6981c8baad74" name="Default Changelist" comment="" />
+      <created>1571597030169</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571334579879</updated>
-      <workItem from="1571334581204" duration="6918000" />
-      <workItem from="1571348102248" duration="160000" />
-      <workItem from="1571596279030" duration="688000" />
+      <updated>1571597030169</updated>
+      <workItem from="1571597031503" duration="5572000" />
+      <workItem from="1572791800260" duration="370000" />
+      <workItem from="1572794405347" duration="172000" />
+      <workItem from="1572794595957" duration="1102000" />
+      <workItem from="1572983323095" duration="36000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7766000" />
+    <option name="totallyTimeSpent" value="7252000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="710" y="23" width="724" height="877" extended-state="0" />
+    <frame x="716" y="23" width="724" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15542522" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13782991" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -208,26 +178,32 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.09090909" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32967034" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/load_CSV_data.py" />
-    <entry file="file://$PROJECT_DIR$/MNIST_handwritten_digits.py">
+    <entry file="file://$PROJECT_DIR$/image_classification/MNIST_handwritten_digits.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        <state relative-caret-position="60">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNIST_fashion.py">
+    <entry file="file://$PROJECT_DIR$/image_classification/MNIST_fashion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_classification/IMBD_movie_reviews.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
         </state>
       </provider>
     </entry>
