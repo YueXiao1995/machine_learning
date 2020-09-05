@@ -1,6 +1,10 @@
 # classification of hand written digits images
 # this program uses tf.keras, a high-level API to build and train models in TensorFlow.
 import tensorflow as tf
+
+# remove the warning message
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 # load data
 mnist = tf.keras.datasets.mnist
 (x_train, y_train), (x_test, y_test) = mnist.load_data()
